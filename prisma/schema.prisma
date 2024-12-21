@@ -88,11 +88,10 @@ model MarketResearch {
   reviews         Reviews[]
   comments        Comment[]
   CartItem        CartItem[]
-  itemId          String      @db.ObjectId
+  OrderItem       OrderItem[]
   country         Country?
   photos          String[]
   isSeasonal      Boolean     @default(false)
-  OrderItem       OrderItem[]
 }
 
 model Reviews {
@@ -103,7 +102,7 @@ model Reviews {
   date           DateTime
   rating         Int
   product        Product        @relation(fields: [productId], references: [id])
-  marketResearch MarketResearch @relation(fields: [productId], references: [id])
+  marketResearch MarketResearch @relation(fields: [productId], references: [id], onDelete: Cascade)
   productId      String         @db.ObjectId
 }
 
@@ -115,7 +114,7 @@ model Comment {
   date           DateTime
   productId      String         @db.ObjectId
   product        Product        @relation(fields: [productId], references: [id])
-  marketResearch MarketResearch @relation(fields: [productId], references: [id])
+  marketResearch MarketResearch @relation(fields: [productId], references: [id], onDelete: Cascade)
 }
 
 model Partner {
@@ -161,7 +160,7 @@ model OrderItem {
   productId      String         @db.ObjectId
   quantity       Int
   price          Int
-  marketResearch MarketResearch @relation(fields: [productId], references: [id])
+  marketResearch MarketResearch @relation(fields: [productId], references: [id], onDelete: Cascade)
 }
 
 model Cart {
@@ -180,5 +179,5 @@ model CartItem {
   price          Int
   Cart           Cart?          @relation(fields: [cartId], references: [id])
   cartId         String?        @db.ObjectId
-  marketResearch MarketResearch @relation(fields: [productId], references: [id])
+  marketResearch MarketResearch @relation(fields: [productId], references: [id], onDelete: Cascade)
 }
