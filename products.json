@@ -1,0 +1,1769 @@
+{
+    "competitorProducts": [
+        {
+            "name": "Зарядна станція універсальна Konner&Sohnen KS 100PS",
+            "price": 4999,
+            "rate": 4.5,
+            "commentsCount": 2,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Jackery Explorer 100 Plus (0190074002564)",
+            "price": 5499,
+            "rate": 4.5,
+            "commentsCount": 8,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Choetech 300W (BS002)",
+            "price": 7999,
+            "rate": 4.8,
+            "commentsCount": 11,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Konner&Sohnen KS 200PS",
+            "price": 7999,
+            "rate": 2,
+            "commentsCount": 1,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна ALLPOWERS S300",
+            "price": 8999,
+            "rate": 4.6,
+            "commentsCount": 25,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна VigorPool Lake 300 320Wh (VP11-EU)",
+            "price": 9999,
+            "rate": 5,
+            "commentsCount": 6,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Vtoman Jump 600X",
+            "price": 9999,
+            "rate": 4.5,
+            "commentsCount": 2,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Bluetti 600W (EB3A)",
+            "price": 13999,
+            "rate": 4.7,
+            "commentsCount": 225,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Jackery Explorer 300PLS 288WH",
+            "price": 11999,
+            "rate": 4.6,
+            "commentsCount": 11,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Vinnic BATUR MINI Power Station PSB500 (PSB500-288wh)",
+            "price": 12499,
+            "rate": 4.3,
+            "commentsCount": 20,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна EcoFlow RIVER 2",
+            "price": 12999,
+            "rate": 4.7,
+            "commentsCount": 43,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна EcoFlow RIVER 3 UPS 300w 245Wh (EF_RIVER3UPS)",
+            "price": 13999,
+            "rate": 4.3,
+            "commentsCount": 3,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Zendure ZDSB600M-gy-eu",
+            "price": 14999,
+            "rate": 4.6,
+            "commentsCount": 14,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Technaxx TX-202 504Wh 600W",
+            "price": 15499,
+            "rate": 4.9,
+            "commentsCount": 7,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Vinnic POLLUX Power Station PS600W-518 (PS600W-518wh)",
+            "price": 16999,
+            "rate": 4.5,
+            "commentsCount": 10,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Jackery Explorer 500 EU",
+            "price": 18499,
+            "rate": 4.7,
+            "commentsCount": 11,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Vinnic Power Station PS700W-512 (PS700W-512wh)",
+            "price": 19999,
+            "rate": 4.7,
+            "commentsCount": 8,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна GENKI GK-800 800W + Сонячна панель",
+            "price": 20699,
+            "rate": 5,
+            "commentsCount": 8,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна EcoFlow RIVER 2 MAX (ZMR610-B-EU)",
+            "price": 23999,
+            "rate": 4.9,
+            "commentsCount": 26,
+            "category": ""
+        },
+        {
+            "name": "Зарядна станція універсальна Bluetti AC60P 504Wh 140000mAh 600W",
+            "price": 23999,
+            "rate": 4.6,
+            "commentsCount": 22,
+            "category": ""
+        }
+    ],
+    "databaseProducts": {
+        "data": [
+            {
+                "country": {
+                    "name": "Japan",
+                    "code": "JP"
+                },
+                "id": "671b254332c63fc01937b198",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4618"
+                ],
+                "description": "Affordable yet packed with great features.",
+                "name": "LED Bulb",
+                "price": 665,
+                "stockCount": 72,
+                "rating": 2,
+                "salePrice": 677,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "44%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "5 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7f",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Japan",
+                    "code": "JP"
+                },
+                "id": "671b254332c63fc01937b199",
+                "subCategories": [
+                    "66fdac5c7ee90dc66ded461a"
+                ],
+                "description": "Affordable yet packed with great features.",
+                "name": "Microwave",
+                "price": 709,
+                "stockCount": 255,
+                "rating": 4,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "63%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "5 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7e",
+                "photos": [],
+                "isSeasonal": true,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "671b254432c63fc01937b19a",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4619"
+                ],
+                "description": "High-quality product with energy efficiency.",
+                "name": "Inverter",
+                "price": 537,
+                "stockCount": 26,
+                "rating": 5,
+                "salePrice": 506,
+                "lightCoins": 18,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "No"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "73%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "1 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7e",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "671b254432c63fc01937b19b",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4618"
+                ],
+                "description": "Affordable yet packed with great features.",
+                "name": "Power Generator",
+                "price": 217,
+                "stockCount": 492,
+                "rating": 3,
+                "salePrice": null,
+                "lightCoins": 1,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "47%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "4 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7e",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Germany",
+                    "code": "DE"
+                },
+                "id": "671b254532c63fc01937b19c",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4618"
+                ],
+                "description": "Perfect for home or office use.",
+                "name": "Extension Cord",
+                "price": 201,
+                "stockCount": 325,
+                "rating": 2,
+                "salePrice": 728,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "7%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "3 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7d",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "USA",
+                    "code": "US"
+                },
+                "id": "671b254532c63fc01937b19d",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4617"
+                ],
+                "description": "Environment-friendly and easy to use.",
+                "name": "Battery Pack",
+                "price": 901,
+                "stockCount": 201,
+                "rating": 2,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "75%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "2 years"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e80",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Japan",
+                    "code": "JP"
+                },
+                "id": "671b254532c63fc01937b19e",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4618"
+                ],
+                "description": "Affordable yet packed with great features.",
+                "name": "Power Generator",
+                "price": 108,
+                "stockCount": 350,
+                "rating": 5,
+                "salePrice": 933,
+                "lightCoins": 8,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "31%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "2 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7d",
+                "photos": [],
+                "isSeasonal": true,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "USA",
+                    "code": "US"
+                },
+                "id": "671b254632c63fc01937b19f",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4619"
+                ],
+                "description": "Reliable, durable, and made for long-term usage.",
+                "name": "Solar Panel",
+                "price": 151,
+                "stockCount": 101,
+                "rating": 5,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "24%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "2 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7e",
+                "photos": [],
+                "isSeasonal": true,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Japan",
+                    "code": "JP"
+                },
+                "id": "671b254632c63fc01937b1a0",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4617"
+                ],
+                "description": "Latest technology at your fingertips.",
+                "name": "Power Generator",
+                "price": 411,
+                "stockCount": 6,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "No"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "45%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "3 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7d",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Japan",
+                    "code": "JP"
+                },
+                "id": "671b254732c63fc01937b1a1",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4617"
+                ],
+                "description": "High-quality product with energy efficiency.",
+                "name": "Extension Cord",
+                "price": 435,
+                "stockCount": 353,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "81%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "4 years"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e80",
+                "photos": [],
+                "isSeasonal": true,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "USA",
+                    "code": "US"
+                },
+                "id": "671b254732c63fc01937b1a2",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4618"
+                ],
+                "description": "Environment-friendly and easy to use.",
+                "name": "Battery Pack",
+                "price": 1062,
+                "stockCount": 409,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "14%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "2 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7e",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Japan",
+                    "code": "JP"
+                },
+                "id": "671b254732c63fc01937b1a3",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4619"
+                ],
+                "description": "Affordable yet packed with great features.",
+                "name": "Electric Fan",
+                "price": 616,
+                "stockCount": 350,
+                "rating": 5,
+                "salePrice": 801,
+                "lightCoins": 5,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "79%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "5 years"
+                    }
+                ],
+                "manufacturer": "6727ac55fc26cd70a59d9e7c",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Germany",
+                    "code": "DE"
+                },
+                "id": "671b254832c63fc01937b1a4",
+                "subCategories": [
+                    "66fdac5c7ee90dc66ded461a"
+                ],
+                "description": "Perfect for home or office use.",
+                "name": "Electric Fan",
+                "price": 694,
+                "stockCount": 355,
+                "rating": 1,
+                "salePrice": 196,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "No"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "83%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "4 years"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e81",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "671b254832c63fc01937b1a5",
+                "subCategories": [
+                    "66fdac5c7ee90dc66ded461a"
+                ],
+                "description": "High-quality product with energy efficiency.",
+                "name": "Air Conditioner",
+                "price": 170,
+                "stockCount": 170,
+                "rating": 3,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "35%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "3 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7f",
+                "photos": [],
+                "isSeasonal": true,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "USA",
+                    "code": "US"
+                },
+                "id": "671b254832c63fc01937b1a6",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4619"
+                ],
+                "description": "Latest technology at your fingertips.",
+                "name": "Microwave",
+                "price": 968,
+                "stockCount": 31,
+                "rating": 5,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "68%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "5 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7d",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Germany",
+                    "code": "DE"
+                },
+                "id": "671b254932c63fc01937b1a7",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4619"
+                ],
+                "description": "Reliable, durable, and made for long-term usage.",
+                "name": "Electric Fan",
+                "price": 103,
+                "stockCount": 422,
+                "rating": 2,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "41%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "2 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7d",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Germany",
+                    "code": "DE"
+                },
+                "id": "671b254932c63fc01937b1a8",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4617"
+                ],
+                "description": "Reliable, durable, and made for long-term usage.",
+                "name": "Power Generator",
+                "price": 987,
+                "stockCount": 67,
+                "rating": 2,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "No"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "0%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "4 years"
+                    }
+                ],
+                "manufacturer": "6727ac55fc26cd70a59d9e7c",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Germany",
+                    "code": "DE"
+                },
+                "id": "671b254a32c63fc01937b1a9",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4617"
+                ],
+                "description": "High-quality product with energy efficiency.",
+                "name": "Solar Panel",
+                "price": 554,
+                "stockCount": 254,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "No"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "98%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "4 years"
+                    }
+                ],
+                "manufacturer": "6727ac55fc26cd70a59d9e7c",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "USA",
+                    "code": "US"
+                },
+                "id": "671b254a32c63fc01937b1aa",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4617"
+                ],
+                "description": "Reliable, durable, and made for long-term usage.",
+                "name": "Solar Panel",
+                "price": 508,
+                "stockCount": 327,
+                "rating": 2,
+                "salePrice": null,
+                "lightCoins": 2,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "No"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "48%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "2 years"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e81",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Japan",
+                    "code": "JP"
+                },
+                "id": "671b254a32c63fc01937b1ab",
+                "subCategories": [
+                    "66fdab5a7ee90dc66ded4617"
+                ],
+                "description": "High-quality product with energy efficiency.",
+                "name": "Solar Panel",
+                "price": 913,
+                "stockCount": 488,
+                "rating": 5,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Durable",
+                        "value": "No"
+                    },
+                    {
+                        "feature": "Energy-efficient",
+                        "value": "18%"
+                    },
+                    {
+                        "feature": "Warranty",
+                        "value": "4 years"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7f",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "674384e5a8851ab97f28e6e3",
+                "subCategories": [],
+                "description": "A high-quality cordless drill.",
+                "name": "Cordless Drill",
+                "price": 100,
+                "stockCount": 50,
+                "rating": 5,
+                "salePrice": null,
+                "lightCoins": 48,
+                "characteristics": [
+                    {
+                        "feature": "Battery",
+                        "value": "Lithium-Ion"
+                    },
+                    {
+                        "feature": "Power",
+                        "value": "18V"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e80",
+                "photos": [],
+                "isSeasonal": true,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "67438538b65eb17077e15440",
+                "subCategories": [],
+                "description": "A high-quality cordless drill.",
+                "name": "Cordless Drill",
+                "price": 100,
+                "stockCount": 50,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": 54,
+                "characteristics": [
+                    {
+                        "feature": "Battery",
+                        "value": "Lithium-Ion"
+                    },
+                    {
+                        "feature": "Power",
+                        "value": "18V"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7e",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "USA",
+                    "code": "US"
+                },
+                "id": "6743853ab65eb17077e15442",
+                "subCategories": [],
+                "description": "A powerful angle grinder for tough jobs.",
+                "name": "Angle Grinder",
+                "price": 150,
+                "stockCount": 30,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Motor Power",
+                        "value": "2000W"
+                    },
+                    {
+                        "feature": "Disc Size",
+                        "value": "5 inches"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7d",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Germany",
+                    "code": "DE"
+                },
+                "id": "6743853bb65eb17077e15443",
+                "subCategories": [],
+                "description": "Heavy-duty impact wrench for industrial work.",
+                "name": "Impact Wrench",
+                "price": 200,
+                "stockCount": 40,
+                "rating": 2,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Torque",
+                        "value": "350Nm"
+                    },
+                    {
+                        "feature": "Speed",
+                        "value": "3000rpm"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7f",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "6743853cb65eb17077e15444",
+                "subCategories": [],
+                "description": "A high-precision laser measure.",
+                "name": "Laser Measure",
+                "price": 120,
+                "stockCount": 40,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": 70,
+                "characteristics": [
+                    {
+                        "feature": "Range",
+                        "value": "100 meters"
+                    },
+                    {
+                        "feature": "Accuracy",
+                        "value": "±2mm"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e80",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Germany",
+                    "code": "DE"
+                },
+                "id": "6743853db65eb17077e15446",
+                "subCategories": [],
+                "description": "Accurate digital caliper for measurements.",
+                "name": "Digital Caliper",
+                "price": 60,
+                "stockCount": 60,
+                "rating": 4,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Material",
+                        "value": "Stainless Steel"
+                    },
+                    {
+                        "feature": "Range",
+                        "value": "0-200mm"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7f",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "USA",
+                    "code": "US"
+                },
+                "id": "6743853eb65eb17077e15447",
+                "subCategories": [],
+                "description": "Advanced digital multimeter for electrical measurements.",
+                "name": "Digital Multimeter",
+                "price": 80,
+                "stockCount": 55,
+                "rating": 4,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Voltage",
+                        "value": "600V"
+                    },
+                    {
+                        "feature": "Current",
+                        "value": "10A"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e81",
+                "photos": [],
+                "isSeasonal": true,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "6743853fb65eb17077e15448",
+                "subCategories": [],
+                "description": "Durable safety helmet for protection.",
+                "name": "Safety Helmet",
+                "price": 40,
+                "stockCount": 100,
+                "rating": 3,
+                "salePrice": null,
+                "lightCoins": 74,
+                "characteristics": [
+                    {
+                        "feature": "Material",
+                        "value": "Polycarbonate"
+                    },
+                    {
+                        "feature": "Weight",
+                        "value": "350g"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7d",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "China",
+                    "code": "CN"
+                },
+                "id": "67438541b65eb17077e1544a",
+                "subCategories": [],
+                "description": "High-quality goggles for eye protection.",
+                "name": "Protective Goggles",
+                "price": 25,
+                "stockCount": 120,
+                "rating": 3,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Lens Type",
+                        "value": "Anti-fog"
+                    },
+                    {
+                        "feature": "Material",
+                        "value": "Polycarbonate"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e81",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "India",
+                    "code": "IN"
+                },
+                "id": "67438542b65eb17077e1544b",
+                "subCategories": [],
+                "description": "Protective gloves for heavy-duty work.",
+                "name": "Safety Gloves",
+                "price": 15,
+                "stockCount": 200,
+                "rating": 2,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Material",
+                        "value": "Leather"
+                    },
+                    {
+                        "feature": "Size",
+                        "value": "Medium"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7e",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "67438542b65eb17077e1544c",
+                "subCategories": [],
+                "description": "Sturdy workbench with storage space.",
+                "name": "Workbench with Drawer",
+                "price": 300,
+                "stockCount": 20,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": 55,
+                "characteristics": [
+                    {
+                        "feature": "Material",
+                        "value": "Wood"
+                    },
+                    {
+                        "feature": "Dimensions",
+                        "value": "150x60x90cm"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7f",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "USA",
+                    "code": "US"
+                },
+                "id": "67438544b65eb17077e1544e",
+                "subCategories": [],
+                "description": "Heavy-duty workbench for industrial use.",
+                "name": "Heavy Duty Workbench",
+                "price": 500,
+                "stockCount": 15,
+                "rating": 2,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Load Capacity",
+                        "value": "500kg"
+                    },
+                    {
+                        "feature": "Material",
+                        "value": "Steel"
+                    }
+                ],
+                "manufacturer": "6727ac55fc26cd70a59d9e7c",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Germany",
+                    "code": "DE"
+                },
+                "id": "67438545b65eb17077e1544f",
+                "subCategories": [],
+                "description": "Compact workbench ideal for small spaces.",
+                "name": "Compact Workbench",
+                "price": 200,
+                "stockCount": 30,
+                "rating": 2,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Dimensions",
+                        "value": "100x50x75cm"
+                    },
+                    {
+                        "feature": "Material",
+                        "value": "Wood"
+                    }
+                ],
+                "manufacturer": "6727ac55fc26cd70a59d9e7c",
+                "photos": [],
+                "isSeasonal": true,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "67438546b65eb17077e15450",
+                "subCategories": [],
+                "description": "Strong hammer for heavy-duty tasks.",
+                "name": "Hammer",
+                "price": 20,
+                "stockCount": 150,
+                "rating": 5,
+                "salePrice": null,
+                "lightCoins": 43,
+                "characteristics": [
+                    {
+                        "feature": "Material",
+                        "value": "Steel"
+                    },
+                    {
+                        "feature": "Handle",
+                        "value": "Wooden"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7f",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "China",
+                    "code": "CN"
+                },
+                "id": "67438547b65eb17077e15452",
+                "subCategories": [],
+                "description": "Complete screwdriver set with different heads.",
+                "name": "Screwdriver Set",
+                "price": 30,
+                "stockCount": 120,
+                "rating": 4,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Material",
+                        "value": "Chrome Vanadium"
+                    },
+                    {
+                        "feature": "Quantity",
+                        "value": "12 pieces"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e80",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "India",
+                    "code": "IN"
+                },
+                "id": "67438548b65eb17077e15453",
+                "subCategories": [],
+                "description": "Sharp utility knife for various tasks.",
+                "name": "Utility Knife",
+                "price": 15,
+                "stockCount": 180,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Blade Length",
+                        "value": "9cm"
+                    },
+                    {
+                        "feature": "Handle",
+                        "value": "Plastic"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7e",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "67438549b65eb17077e15454",
+                "subCategories": [],
+                "description": "A sleek tablet with a large display and fast performance.",
+                "name": "10-inch Tablet",
+                "price": 250,
+                "stockCount": 70,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": 64,
+                "characteristics": [
+                    {
+                        "feature": "Screen Size",
+                        "value": "10 inches"
+                    },
+                    {
+                        "feature": "Battery Life",
+                        "value": "12 hours"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7f",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "China",
+                    "code": "CN"
+                },
+                "id": "6743854bb65eb17077e15456",
+                "subCategories": [],
+                "description": "Compact and portable tablet for everyday use.",
+                "name": "7-inch Tablet",
+                "price": 150,
+                "stockCount": 120,
+                "rating": 3,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Screen Size",
+                        "value": "7 inches"
+                    },
+                    {
+                        "feature": "Battery Life",
+                        "value": "8 hours"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e81",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Germany",
+                    "code": "DE"
+                },
+                "id": "6743854cb65eb17077e15457",
+                "subCategories": [],
+                "description": "Premium tablet with high-end specs and a large screen.",
+                "name": "12-inch Tablet",
+                "price": 350,
+                "stockCount": 40,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Screen Resolution",
+                        "value": "2K"
+                    },
+                    {
+                        "feature": "Battery Life",
+                        "value": "15 hours"
+                    }
+                ],
+                "manufacturer": "6727ac55fc26cd70a59d9e7c",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "6743854db65eb17077e15458",
+                "subCategories": [],
+                "description": "Flagship smartphone with advanced features and top performance.",
+                "name": "Smartphone X Pro",
+                "price": 700,
+                "stockCount": 100,
+                "rating": 2,
+                "salePrice": null,
+                "lightCoins": 39,
+                "characteristics": [
+                    {
+                        "feature": "Screen Size",
+                        "value": "6.5 inches"
+                    },
+                    {
+                        "feature": "Camera",
+                        "value": "48MP"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7f",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "China",
+                    "code": "CN"
+                },
+                "id": "6743854eb65eb17077e1545a",
+                "subCategories": [],
+                "description": "Mid-range smartphone with solid performance.",
+                "name": "Smartphone Y",
+                "price": 400,
+                "stockCount": 150,
+                "rating": 2,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Screen Size",
+                        "value": "6.1 inches"
+                    },
+                    {
+                        "feature": "Camera",
+                        "value": "16MP"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e80",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "India",
+                    "code": "IN"
+                },
+                "id": "6743854fb65eb17077e1545b",
+                "subCategories": [],
+                "description": "Affordable smartphone with essential features.",
+                "name": "Smartphone Z Lite",
+                "price": 200,
+                "stockCount": 200,
+                "rating": 5,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Screen Size",
+                        "value": "5.5 inches"
+                    },
+                    {
+                        "feature": "Camera",
+                        "value": "8MP"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7d",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "67438550b65eb17077e1545c",
+                "subCategories": [],
+                "description": "High-performance DSLR camera with 4K video recording.",
+                "name": "4K DSLR Camera",
+                "price": 1200,
+                "stockCount": 50,
+                "rating": 5,
+                "salePrice": null,
+                "lightCoins": 38,
+                "characteristics": [
+                    {
+                        "feature": "Resolution",
+                        "value": "4K"
+                    },
+                    {
+                        "feature": "Sensor",
+                        "value": "Full-frame"
+                    }
+                ],
+                "manufacturer": "6727ac55fc26cd70a59d9e7c",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Japan",
+                    "code": "JP"
+                },
+                "id": "67438552b65eb17077e1545e",
+                "subCategories": [],
+                "description": "Compact mirrorless camera with stunning image quality.",
+                "name": "Mirrorless Camera",
+                "price": 900,
+                "stockCount": 70,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Resolution",
+                        "value": "24MP"
+                    },
+                    {
+                        "feature": "Sensor",
+                        "value": "APS-C"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e80",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "USA",
+                    "code": "US"
+                },
+                "id": "67438553b65eb17077e1545f",
+                "subCategories": [],
+                "description": "Easy-to-use point-and-shoot camera for casual photography.",
+                "name": "Point-and-Shoot Camera",
+                "price": 300,
+                "stockCount": 150,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Zoom",
+                        "value": "10x Optical"
+                    },
+                    {
+                        "feature": "Resolution",
+                        "value": "16MP"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e81",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "67438554b65eb17077e15460",
+                "subCategories": [],
+                "description": "High-quality wireless audio system for home entertainment.",
+                "name": "Wireless Audio System",
+                "price": 250,
+                "stockCount": 60,
+                "rating": 2,
+                "salePrice": null,
+                "lightCoins": 56,
+                "characteristics": [
+                    {
+                        "feature": "Connectivity",
+                        "value": "Bluetooth"
+                    },
+                    {
+                        "feature": "Output Power",
+                        "value": "100W"
+                    }
+                ],
+                "manufacturer": "6727ac57fc26cd70a59d9e81",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "China",
+                    "code": "CN"
+                },
+                "id": "67438555b65eb17077e15462",
+                "subCategories": [],
+                "description": "Compact soundbar for improved TV sound.",
+                "name": "Soundbar",
+                "price": 150,
+                "stockCount": 100,
+                "rating": 4,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Connectivity",
+                        "value": "HDMI"
+                    },
+                    {
+                        "feature": "Output Power",
+                        "value": "50W"
+                    }
+                ],
+                "manufacturer": "6727ac55fc26cd70a59d9e7c",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Germany",
+                    "code": "DE"
+                },
+                "id": "67438556b65eb17077e15463",
+                "subCategories": [],
+                "description": "Portable Bluetooth speaker for outdoor use.",
+                "name": "Bluetooth Speaker",
+                "price": 100,
+                "stockCount": 120,
+                "rating": 3,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Waterproof",
+                        "value": "Yes"
+                    },
+                    {
+                        "feature": "Battery Life",
+                        "value": "10 hours"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7f",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "Ukraine",
+                    "code": "UA"
+                },
+                "id": "67438557b65eb17077e15464",
+                "subCategories": [],
+                "description": "High-definition 4K LED TV with smart features.",
+                "name": "4K LED TV",
+                "price": 800,
+                "stockCount": 30,
+                "rating": 5,
+                "salePrice": null,
+                "lightCoins": 44,
+                "characteristics": [
+                    {
+                        "feature": "Resolution",
+                        "value": "4K"
+                    },
+                    {
+                        "feature": "Screen Size",
+                        "value": "55 inches"
+                    }
+                ],
+                "manufacturer": "6727ac56fc26cd70a59d9e7e",
+                "photos": [],
+                "isSeasonal": true,
+                "isAvailable": true,
+                "commentsCount": 0
+            },
+            {
+                "country": {
+                    "name": "China",
+                    "code": "CN"
+                },
+                "id": "67438559b65eb17077e15466",
+                "subCategories": [],
+                "description": "Affordable LED TV with HD resolution.",
+                "name": "LED TV",
+                "price": 500,
+                "stockCount": 60,
+                "rating": 1,
+                "salePrice": null,
+                "lightCoins": null,
+                "characteristics": [
+                    {
+                        "feature": "Resolution",
+                        "value": "1080p"
+                    },
+                    {
+                        "feature": "Screen Size",
+                        "value": "43 inches"
+                    }
+                ],
+                "manufacturer": "6727ac55fc26cd70a59d9e7c",
+                "photos": [],
+                "isSeasonal": false,
+                "isAvailable": true,
+                "commentsCount": 0
+            }
+        ],
+        "total": 54
+    }
+}

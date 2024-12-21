@@ -1,0 +1,184 @@
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id               String    @id @default(auto()) @map("_id") @db.ObjectId
+  email            String?
+  username         String
+  password         String
+  city             String?
+  street           String?
+  apartment        String?
+  building         String?
+  image            String?
+  balance          Balance?
+  phone            String    @default("")
+  comments         Comment[]
+  reviews          Reviews[]
+  carts            Cart[]
+  Order            Order[]
+  resetToken       String?
+  resetTokenExpiry DateTime?
+}
+
+model Category {
+  id            String   @id @default(auto()) @map("_id") @db.ObjectId
+  description   String
+  name          String   @unique
+  subCategories String[] @default([]) @db.ObjectId
+}
+
+model SubCategory {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  description String
+  name        String   @unique
+  products    String[] @default([]) @db.ObjectId
+  categoryId  String?  @db.ObjectId
+}
+
+type Balance {
+  lightCoins Int @default(0)
+  main       Int @default(0)
+}
+
+type Country {
+  name String
+  code String
+}
+
+model Product {
+  id              String      @id @default(auto()) @map("_id") @db.ObjectId
+  subCategories   String[]    @default([]) @db.ObjectId
+  description     String
+  name            String
+  price           Int
+  stockCount      Int
+  rating          Int
+  salePrice       Int?
+  lightCoins      Int?
+  characteristics Json[]
+  manufacturer    String?     @db.ObjectId
+  reviews         Reviews[]
+  comments        Comment[]
+  CartItem        CartItem[]
+  OrderItem       OrderItem[]
+  country         Country?
+  photos          String[]
+  isSeasonal      Boolean     @default(false)
+}
+
+model MarketResearch {
+  id              String      @id @default(auto()) @map("_id") @db.ObjectId
+  subCategories   String[]    @default([]) @db.ObjectId
+  description     String
+  name            String
+  price           Int
+  stockCount      Int
+  rating          Int
+  salePrice       Int?
+  lightCoins      Int?
+  characteristics Json[]
+  manufacturer    String?     @db.ObjectId
+  reviews         Reviews[]
+  comments        Comment[]
+  CartItem        CartItem[]
+  itemId          String      @db.ObjectId
+  country         Country?
+  photos          String[]
+  isSeasonal      Boolean     @default(false)
+  OrderItem       OrderItem[]
+}
+
+model Reviews {
+  id             String         @id @default(auto()) @map("_id") @db.ObjectId
+  reviewer       User           @relation(fields: [reviewerId], references: [id])
+  reviewerId     String         @db.ObjectId
+  text           String
+  date           DateTime
+  rating         Int
+  product        Product        @relation(fields: [productId], references: [id])
+  marketResearch MarketResearch @relation(fields: [productId], references: [id])
+  productId      String         @db.ObjectId
+}
+
+model Comment {
+  id             String         @id @default(auto()) @map("_id") @db.ObjectId
+  user           User           @relation(fields: [userId], references: [id])
+  userId         String         @db.ObjectId
+  text           String
+  date           DateTime
+  productId      String         @db.ObjectId
+  product        Product        @relation(fields: [productId], references: [id])
+  marketResearch MarketResearch @relation(fields: [productId], references: [id])
+}
+
+model Partner {
+  id                 String @id @default(auto()) @map("_id") @db.ObjectId
+  contactPerson      String
+  companyName        String
+  phone              String
+  email              String
+  offers             String
+  productDescription String
+}
+
+model Supplier {
+  id                 String @id @default(auto()) @map("_id") @db.ObjectId
+  contactPerson      String
+  companyName        String
+  phone              String
+  email              String
+  offers             String
+  productDescription String
+}
+
+enum PaymentType {
+  cash
+}
+
+model Order {
+  id          String      @id @default(auto()) @map("_id") @db.ObjectId
+  user        User        @relation(fields: [userId], references: [id])
+  userId      String      @db.ObjectId
+  items       OrderItem[]
+  totalAmount Int
+  status      String
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+}
+
+model OrderItem {
+  id             String         @id @default(auto()) @map("_id") @db.ObjectId
+  order          Order          @relation(fields: [orderId], references: [id])
+  orderId        String         @db.ObjectId
+  product        Product        @relation(fields: [productId], references: [id])
+  productId      String         @db.ObjectId
+  quantity       Int
+  price          Int
+  marketResearch MarketResearch @relation(fields: [productId], references: [id])
+}
+
+model Cart {
+  id         String     @id @default(auto()) @map("_id") @db.ObjectId
+  user       User       @relation(fields: [userId], references: [id])
+  userId     String     @db.ObjectId
+  items      CartItem[]
+  totalPrice Int
+}
+
+model CartItem {
+  id             String         @id @default(auto()) @map("_id") @db.ObjectId
+  product        Product        @relation(fields: [productId], references: [id])
+  productId      String         @db.ObjectId
+  quantity       Int
+  price          Int
+  Cart           Cart?          @relation(fields: [cartId], references: [id])
+  cartId         String?        @db.ObjectId
+  marketResearch MarketResearch @relation(fields: [productId], references: [id])
+}
